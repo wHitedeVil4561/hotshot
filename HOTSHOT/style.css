@@ -1,0 +1,45 @@
+#logo{
+    width: 5%;
+    height: 1%;
+    
+}
+#logodiv{
+
+}
+#carouselExampleControls{
+    margin-top: 1rem;
+}
+li{
+    margin-left: 5rem;
+    font-size: 20px;
+}
+#searchbar{
+    width: 100%;
+}
+#dropdownMenuButton1{
+    width: 100%;
+}
+#query{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.dropdown-item{
+    float: left;
+}
+hr{
+    border: 2px solid black;
+}
+.card-img-top{
+    width: 15rem;
+    height: 15rem;
+}
+.card-title{
+    text-align: center;
+    width: 100%;
+}
+.card{
+    width: 15rem;
+    padding: 0;
+    margin-bottom: 1rem;
+    margin-right: 1.5rem;
+}
